@@ -38,4 +38,4 @@ bot.on('message', function (message) {
 })
 
 
-bot.login('NDI4MjQ0NTM5ODQ1NzcxMjY0.DaJ6RQ.geHXxx67pZGoKiQ6lQtylTmx0aQ')
+bot.login('process.env.TOKEN')
